@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- 追加のhead要素やスタイルシート、スクリプトなどをここに追加 -->
+</head>
+<body>
+    <!-- ここにコンテンツを追加 -->
+
+    <!-- 例：ヘッダー -->
+    <header>
+        <h1>まぷえんへ</h1>
+    </header>
+
+    <!-- 例：メインコンテンツ -->
+    <main>
+        <p>やあ、ルーカスだよ、これで一緒にページ編集ができるね</p>
+    </main>
+
+    <!-- 例：フッター -->
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+
+    <!-- 追加のスクリプトやフッターで必要な要素をここに追加 -->
+</body>
+</html>
